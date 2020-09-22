@@ -28,6 +28,13 @@
     "blue-e2e": {
       "tags": [],
       "implicitDependencies": ["blue"]
+    },
+    "green": {
+      "tags": []
+    },
+    "green-e2e": {
+      "tags": [],
+      "implicitDependencies": ["green"]
     }
   }
 }
